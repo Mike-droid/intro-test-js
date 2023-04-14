@@ -33,3 +33,9 @@ Pirámide invertida:
 2. automated e2e test
 3. integration test
 4. unit test
+
+### Hablemos sobre deuda técnica
+
+La deuda no es buena ni mala, puede ser una palanca estratégica.
+
+[Tech Debt Isn't a Burden, It's a Strategic Lever for Success](https://www.reforge.com/blog/managing-tech-debt)
