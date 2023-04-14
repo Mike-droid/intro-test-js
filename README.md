@@ -55,3 +55,7 @@ Para este proyecto usaremos [Jest](https://jestjs.io/)
 ### Pruebas estáticas
 
 Las pruebas estáticas no ejecutan el código, solamente lo analizan y dan feedback muy temprano.
+
+### Assertions / Matchers
+
+Hack para que VS Code autocomplete tu código de Jest: `npm i -D @types/jest`
