@@ -11,3 +11,25 @@ Antes el crear software era un poco más 'artesanal'. Ahora el código necesita 
 > Los problemas siepmre van a existir, lo que hacemos es gestionar el _riesgo_.
 ---
 > The earlier you find a mistake, _the easier it is to fix_.
+
+### La piramide del testing
+
+1. Base: Pruebas unitarias - rápidas y menos costozas
+2. Servicios
+3. UI: son más complicadas y más costozas
+
+---
+
+1. Unit Tests - son la base y están desacopladas
+2. Integration Tests - probamos como funcionan 2 unidades o con más
+3. End to End Tests - todo lo que son terceros (BBDD, APIs)
+4. UI Tests - Emular dispositivos (por ejemplo móviles o en navegadores)
+
+¡Antipatrón! NO LO DEBEMOS HACER:
+
+Pirámide invertida:
+
+1. Manual regression testing
+2. automated e2e test
+3. integration test
+4. unit test
