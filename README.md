@@ -39,3 +39,7 @@ Pirámide invertida:
 La deuda no es buena ni mala, puede ser una palanca estratégica.
 
 [Tech Debt Isn't a Burden, It's a Strategic Lever for Success](https://www.reforge.com/blog/managing-tech-debt)
+
+### Herremientas de testing
+
+[State of JavaScript](https://stateofjs.com/en-us/)
