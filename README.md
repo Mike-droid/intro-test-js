@@ -49,3 +49,9 @@ La deuda no es buena ni mala, puede ser una palanca estratégica.
 Para este proyecto usaremos [Jest](https://jestjs.io/)
 
 ### Tu primer test
+
+## Escribiendo pruebas
+
+### Pruebas estáticas
+
+Las pruebas estáticas no ejecutan el código, solamente lo analizan y dan feedback muy temprano.
