@@ -43,3 +43,7 @@ La deuda no es buena ni mala, puede ser una palanca estratégica.
 ### Herremientas de testing
 
 [State of JavaScript](https://stateofjs.com/en-us/)
+
+### Creando el proyecto
+
+Para este proyecto usaremos [Jest](https://jestjs.io/)
