@@ -68,3 +68,7 @@ Hack para que VS Code autocomplete tu código de Jest: `npm i -D @types/jest`
 - `beforeEach():` se ejecuta antes de cada prueba.
 - `afterEach():` se ejecuta después de cada prueba.
 - `afterAll():` se ejecuta después de todas las pruebas
+
+### Implementando Setup
+
+Para correr solamente 1 archivo de test, hacemos `npm run test -- nombre-archivo`.
