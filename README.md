@@ -72,3 +72,11 @@ Hack para que VS Code autocomplete tu código de Jest: `npm i -D @types/jest`
 ### Implementando Setup
 
 Para correr solamente 1 archivo de test, hacemos `npm run test -- nombre-archivo`.
+
+### Tipos de Pruebas
+
+Si escribes el código _tienes que escribir el Unit test_.
+
+[Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
+
+[Chaos Monkey for Netflix](https://netflix.github.io/chaosmonkey/)
