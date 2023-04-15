@@ -59,3 +59,12 @@ Las pruebas estáticas no ejecutan el código, solamente lo analizan y dan feedb
 ### Assertions / Matchers
 
 Hack para que VS Code autocomplete tu código de Jest: `npm i -D @types/jest`
+
+### Setup and Teardown
+
+`describe` se usa para tener un conjunto de pruebas.
+
+- `beforeAll():` se ejecuta antes de todas las pruebas.
+- `beforeEach():` se ejecuta antes de cada prueba.
+- `afterEach():` se ejecuta después de cada prueba.
+- `afterAll():` se ejecuta después de todas las pruebas
