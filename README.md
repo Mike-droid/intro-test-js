@@ -87,3 +87,23 @@ Si escribes el código _tienes que escribir el Unit test_.
 2. BDD -> Behavior Driven Development: De acuerdo a los requisitos, escribimos las pruebas, un poco más reales a lo que pasaría en producción.
 
 Hay que tener cuidado con los _falsos positivos_ y los _falsos negativos_ (este se da cuando solamente pruebas el happy path).
+
+## Pruebas Unitarias
+
+### Pruebas unitarias
+
+Son las más comunes, también se conocen como 'pruebas aisladas'.
+
+- Pruebas de caja negra: solo me importa el input y output, no me importa la lógica interna.
+- Pruebas de caja blanca: sí me importa la lógica interna, hago más pruebas de comportamiento.
+
+¿Qué es una unidad?
+
+Puede ser...
+
+- Una función
+- Una clase
+
+Todo depende del contexto.
+
+[Unit Test](https://martinfowler.com/bliki/UnitTest.html)
