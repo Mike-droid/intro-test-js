@@ -80,3 +80,10 @@ Si escribes el código _tienes que escribir el Unit test_.
 [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
 
 [Chaos Monkey for Netflix](https://netflix.github.io/chaosmonkey/)
+
+### Metodologías
+
+1. TDD -> Test Driven Development: Primero escribimos las prubeas y después el código de la lógica.
+2. BDD -> Behavior Driven Development: De acuerdo a los requisitos, escribimos las pruebas, un poco más reales a lo que pasaría en producción.
+
+Hay que tener cuidado con los _falsos positivos_ y los _falsos negativos_ (este se da cuando solamente pruebas el happy path).
