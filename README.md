@@ -113,3 +113,7 @@ Todo depende del contexto.
 Para ejecutar el reporte: `npm run test -- --coverage` y el archivo index.html nos dará más detalles.
 
 El porcentaje de cobertura sirve para tener un equilibrio y no hacer pruebas innecesarias”. Esto esta muy ligado a hacer “sobre ingeniería”, no porque se pueda hacer significa que se tenga que hacer y ese es uno de los puntos que caracteriza a un buen Software Developer.
+
+### Instalación de Docker para este curso
+
+[Artículo en Platzi](https://platzi.com/clases/2920-javascript-testing/48631-instalacion-de-docker-para-este-curso/)
