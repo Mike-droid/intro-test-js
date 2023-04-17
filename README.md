@@ -119,3 +119,11 @@ El porcentaje de cobertura sirve para tener un equilibrio y no hacer pruebas inn
 [Artículo en Platzi](https://platzi.com/clases/2920-javascript-testing/48631-instalacion-de-docker-para-este-curso/)
 
 ### Proyecto de API
+
+### Mocking, Stub, doubles
+
+- Dummy: Son datos ficticios para llenar información.
+- Fake: Son objetos que simulan comportamientos o datos; como un usuario ficticio.
+- Stubs: Son proveedores o APIs de datos preparados (BD Clima).
+- Spies: Son como los stubs, pero se dejan espiar su comportamiento, comunicación e invocación.
+- Mocks: Stubs + Spies, pueden estar pre-programados para enviar las respuestas supuestas.
