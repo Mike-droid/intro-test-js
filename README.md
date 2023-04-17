@@ -117,3 +117,5 @@ El porcentaje de cobertura sirve para tener un equilibrio y no hacer pruebas inn
 ### Instalación de Docker para este curso
 
 [Artículo en Platzi](https://platzi.com/clases/2920-javascript-testing/48631-instalacion-de-docker-para-este-curso/)
+
+### Proyecto de API
