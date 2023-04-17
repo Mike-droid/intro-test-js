@@ -127,3 +127,5 @@ El porcentaje de cobertura sirve para tener un equilibrio y no hacer pruebas inn
 - Stubs: Son proveedores o APIs de datos preparados (BD Clima).
 - Spies: Son como los stubs, pero se dejan espiar su comportamiento, comunicación e invocación.
 - Mocks: Stubs + Spies, pueden estar pre-programados para enviar las respuestas supuestas.
+
+### Mocking
