@@ -129,3 +129,7 @@ El porcentaje de cobertura sirve para tener un equilibrio y no hacer pruebas inn
 - Mocks: Stubs + Spies, pueden estar pre-programados para enviar las respuestas supuestas.
 
 ### Mocking
+
+### Generando Fake Books
+
+Usaremos [faker-js](https://fakerjs.dev/)
