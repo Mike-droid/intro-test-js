@@ -133,3 +133,7 @@ El porcentaje de cobertura sirve para tener un equilibrio y no hacer pruebas inn
 ### Generando Fake Books
 
 Usaremos [faker-js](https://fakerjs.dev/)
+
+## Integration Test & E2E
+
+### Configurando supertest en el API
