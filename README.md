@@ -147,3 +147,9 @@ Usaremos [faker-js](https://fakerjs.dev/)
 ## UI Test
 
 ### UI Tests
+
+## Automatizar
+
+### Unit tests en GitHub Actions
+
+Las automatizaciones de pruebas hacen que se aceleren los equipos de desarrolladores.
