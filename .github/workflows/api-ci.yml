@@ -43,6 +43,6 @@ jobs:
       - name: install
         shell: bash
         run: npm ci
-      - name: run unit test
+      - name: run lint
         shell: bash
         run: npm run lint --silent
