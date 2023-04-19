@@ -143,3 +143,7 @@ Usaremos [faker-js](https://fakerjs.dev/)
 ### e2e
 
 ¡A tomar en cuenta!: Cuando hagamos pruebas End to end, necesitamos hacerla en una base de datos de prueba. Debemos asegurarnos de que NO vamos a tomar la base de datos de producción.
+
+## UI Test
+
+### UI Tests
